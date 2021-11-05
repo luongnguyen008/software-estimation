@@ -1,8 +1,4 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
+# Xây dựng phần mềm minh họa/trợ giúp thực hiện quy trình xây dựng dự toán phần mềm theo công văn 2589.
 
 In the project directory, you can run:
 
